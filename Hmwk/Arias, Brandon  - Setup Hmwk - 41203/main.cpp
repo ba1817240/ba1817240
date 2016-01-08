@@ -1,26 +1,27 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   main.cpp
  * Author: Brandon Arias
- *
  * Created on January 6, 2016, 1:15 AM
+ * Purpose: Setup Homework
  */
 
+//System Libraries
 #include <iostream>
-
 using namespace std;
 
-/*
- * 
- */
+//User Libraries
+
+//Global Constants
+
+//Function Prototypes
+
+//Execution Begins Here
 int main(int argc, char** argv) 
 {
-    cout << "Hello World" << endl;
+    //Text output
+    cout << "Hello World" << endl; 
+    
+    //End Program
     return 0;
 }
 
