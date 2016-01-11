@@ -9,7 +9,6 @@
 #include <iostream>
 #include <iomanip>
 
-
 using namespace std;
 
 //User Libraries
@@ -34,7 +33,6 @@ int main(int argc, char** argv)
     
     //Display MPG
     cout << "Car gets " << mpg << " miles per gallon" << endl;
-    
     
     //End program
     return 0;

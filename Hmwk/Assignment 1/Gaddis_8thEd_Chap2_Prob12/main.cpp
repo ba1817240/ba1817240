@@ -16,6 +16,7 @@ using namespace std;
 //Global Constants
 const long int ACRE = 43560;
 const double TRACT = 391876;
+//***couldn't get this to work without using double
 
 //Function prototypes
 
