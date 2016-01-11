@@ -1,11 +1,12 @@
 /*
  * File:   main.cpp
  * Author: Brandon Arias
- * Created on January 10, 2016, 4:25 PM
- * Purpose: Make a Triangle
+ * Created on January 10, 2016, 11:47 PM
+ * Purpose: Make a Diamond
  */
 
 //System Libraries
+
 #include <iostream>
 
 using namespace std;
@@ -17,16 +18,21 @@ using namespace std;
 //Function prototypes
 
 //Execution Begins Here
+
 int main(int argc, char** argv)
 
 {
-    //Display triangle
+    //Display diamond
     cout << "    *     " << endl;
     cout << "   ***    " << endl;
     cout << "  *****   " << endl;
     cout << " *******  " << endl;
+    cout << "  *****   " << endl;
+    cout << "   ***    " << endl;
+    cout << "    *     " << endl;
 
     //End program
+
     return 0;
 
 }

@@ -6,7 +6,6 @@
  */
 
 //System Libraries
-
 #include <iostream>
 
 using namespace std;
@@ -14,27 +13,20 @@ using namespace std;
 //User Libraries
 
 //Global Constants
-
+int VAR1 = 50, VAR2 = 100, total=0;
 //Function prototypes
 
 //Execution Begins Here
-
 int main(int argc, char** argv)
-
-{
-    //initialize variables
-    int var1 = 50, var2 = 100, total=0;
-    
+{    
     //Add variables
-    total = var1 + var2;
+    total = VAR1 + VAR2;
     
     //display results
-    cout << "Variable 1 value is: " << var1 << endl;
-    cout << "Variable 2 value is: " << var2 << endl;
+    cout << "Variable 1 value is: " << VAR1 << endl;
+    cout << "Variable 2 value is: " << VAR2 << endl;
     cout << "Total of the variables is: " << total << endl;
     
     //End program
-
     return 0;
-
 }
