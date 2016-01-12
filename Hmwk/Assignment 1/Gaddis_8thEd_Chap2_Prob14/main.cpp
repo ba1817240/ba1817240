@@ -13,10 +13,10 @@ using namespace std;
 //User Libraries
 
 //Global Constants
-string NAME = "Your Name:";
-string ADD = "Your Address, with city, state and ZIP code:";
-string PH = "Your Telephone Number:";
-string MAJOR = "Your college major:";
+const string NAME = "Your Name:";
+const string ADD = "Your Address, with city, state and ZIP code:";
+const string PH = "Your Telephone Number:";
+const string MAJOR = "Your college major:";
 //Function prototypes
 
 //Execution Begins Here

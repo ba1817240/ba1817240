@@ -13,12 +13,15 @@ using namespace std;
 //User Libraries
 
 //Global Constants
-int VAR1 = 50, VAR2 = 100, total=0;
+const int VAR1 = 50, VAR2 = 100;
 //Function prototypes
 
 //Execution Begins Here
 int main(int argc, char** argv)
 {    
+    //Declare variables
+    int total=0;
+    
     //Add variables
     total = VAR1 + VAR2;
     
