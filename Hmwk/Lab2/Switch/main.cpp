@@ -2,7 +2,7 @@
 *   File: main.cpp
 *   Author: Brandon Arias
 *   Created on January 15, 2016, 11:15 PM
-*   Purpose:  Independent If Statements
+*   Purpose:  Grade Switch 
 */
 
 //System Libraries
